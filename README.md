@@ -1,2 +1,3 @@
 # README
-Profile Bio
+Profile Bio:
+Hello! Im Tommy Meen :D
